@@ -1,5 +1,3 @@
-// playtest commit
-
 'use strict';
 
 const _ = require('lodash');
